@@ -7,5 +7,4 @@ void setup()
 void loop()
 {
   digitalWrite(ledpin , HIGH);
-  delay(1000); // Wait for 1000 millisecond(s)
 }
